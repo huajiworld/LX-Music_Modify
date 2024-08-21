@@ -63,13 +63,13 @@ export default forwardRef<ListMenuType, ListMenuProps>((props, ref) => {
     const menu = [
       { action: 'play', label: t('play') },
       { action: 'playLater', label: t('play_later') },
-      // { action: 'download', label: '下载' },
+      { action: 'download', label: '下载' },
       { action: 'add', label: t('add_to') },
       { action: 'move', label: t('move_to') },
       { action: 'changePosition', label: t('change_position') },
       { action: 'copyName', label: t('copy_name') },
       { action: 'musicSourceDetail', disabled: musicInfo.source == 'local', label: t('music_source_detail') },
-      // { action: 'musicSearch', label: t('music_search') },
+      { action: 'musicSearch', label: t('music_search') },
       { action: 'dislike', disabled: hasDislike(musicInfo), label: t('dislike') },
       { action: 'remove', label: t('delete') },
     ]
