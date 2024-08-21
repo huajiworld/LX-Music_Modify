@@ -1,17 +1,17 @@
-<p align="center"><a href="https://github.com/lyswhut/lx-music-mobile"><img width="200" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
+<p align="center"><a href="https://bgithub.xyz/lyswhut/lx-music-mobile"><img width="200" src="https://bgithub.xyz/lyswhut/lx-music-mobile/blob/master/doc/images/icon.png" alt="lx-music logo"></a></p>
 
 <p align="center">
-  <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lx-music-mobile" alt="Release version"></a>
-  <a href="https://github.com/lyswhut/lx-music-mobile/actions/workflows/release.yml"><img src="https://github.com/lyswhut/lx-music-mobile/workflows/Build/badge.svg" alt="Build status"></a>
-  <a href="https://github.com/lyswhut/lx-music-mobile/actions/workflows/beta-pack.yml"><img src="https://github.com/lyswhut/lx-music-mobile/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
-  <a href="https://github.com/facebook/react-native"><img src="https://img.shields.io/github/package-json/dependency-version/lyswhut/lx-music-mobile/react-native/master" alt="React native version"></a>
-  <!-- <a href="https://github.com/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/downloads/lyswhut/lx-music-mobile/latest/total" alt="Downloads"></a> -->
-  <a href="https://github.com/lyswhut/lx-music-mobile/tree/dev"><img src="https://img.shields.io/github/package-json/v/lyswhut/lx-music-mobile/dev" alt="Dev branch version"></a>
-  <!-- <a href="https://github.com/lyswhut/lx-music-mobile/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lyswhut/lx-music-mobile" alt="License"></a> -->
+  <a href="https://bgithub.xyz/lyswhut/lx-music-mobile/releases"><img src="https://img.shields.io/github/release/lyswhut/lx-music-mobile" alt="Release version"></a>
+  <a href="https://bgithub.xyz/lyswhut/lx-music-mobile/actions/workflows/release.yml"><img src="https://bgithub.xyz/lyswhut/lx-music-mobile/workflows/Build/badge.svg" alt="Build status"></a>
+  <a href="https://bgithub.xyz/lyswhut/lx-music-mobile/actions/workflows/beta-pack.yml"><img src="https://bgithub.xyz/lyswhut/lx-music-mobile/workflows/Build%20Beta/badge.svg" alt="Build status"></a>
+  <a href="https://bgithub.xyz/facebook/react-native"><img src="https://img.shields.io/github/package-json/dependency-version/lyswhut/lx-music-mobile/react-native/master" alt="React native version"></a>
+  
+  <a href="https://bgithub.xyz/lyswhut/lx-music-mobile/tree/dev"><img src="https://img.shields.io/github/package-json/v/lyswhut/lx-music-mobile/dev" alt="Dev branch version"></a>
+  
 </p>
 
 
-<h2 align="center">洛雪音乐助手移动版</h2>
+<h2 align="center">洛雪音乐手机端可下载版，以下是原版Readme说明</h2>
 
 ### 说明
 
@@ -54,7 +54,7 @@
 <!--
 ### UI界面
 
-<p><a href="https://github.com/lyswhut/lx-music-mobile"><img width="100%" src="https://github.com/lyswhut/lx-music-mobile/blob/master/doc/images/app.png" alt="lx-music UI"></a></p> -->
+<p><a href="https://bgithub.xyz/lyswhut/lx-music-mobile"><img width="100%" src="https://bgithub.xyz/lyswhut/lx-music-mobile/blob/master/doc/images/app.png" alt="lx-music UI"></a></p> -->
 
 ### 项目协议
 
