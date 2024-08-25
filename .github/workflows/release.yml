@@ -24,11 +24,17 @@ jobs:
           
       # Push tag to GitHub if package.json version's tag is not tagged
       
-      - name: Upload apk
-        uses: actions/upload-artifact@v3
+      - name: Upload 64-bit apk
+        uses: actions/upload-artifact@v4
         with:
-            path: ./android/app/build/outputs/apk/release/*.apk
-          
+            name: 64.zip
+            path: ./android/app/build/outputs/apk/release/*v8a.apk
+
+      - name: Upload 32-bit apk
+        uses: actions/upload-artifact@v4
+        with:
+            name: 32.zip
+            path: ./android/app/build/outputs/apk/release/*v7a.apk
 
   
 
